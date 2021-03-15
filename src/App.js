@@ -44,7 +44,7 @@ function Reservations() {
      : "" }
   </ul>
  </div>
- )                                                                                     //Rezerwacje nie znikają po kolejnym clicku                                               
+ )                                                                                     //Rezerwacje nie znikają po kolejnym click                                        
 }
 
 
